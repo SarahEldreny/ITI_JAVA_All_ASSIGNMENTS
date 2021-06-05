@@ -1,10 +1,8 @@
 package company.com;
 
 import java.util.*;
-import java.util.function.BiPredicate;
-import java.util.function.Predicate;
 
-public class Main<string, b> {
+public class Main{
 
     private static Comparator<? super Worldcities> population;
 
